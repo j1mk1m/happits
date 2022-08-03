@@ -1,6 +1,9 @@
 # Happits
 ## Habit Tracking and Social Media application
 
+Happits is a habit-tracking social media web application that allows users to track their habits and interact with other users. Through an interactive dashboard, users can create custom habits and keep track of their progress by logging the completion of a habit on a given day. The analytics feature allows users to visualize their progress using a heat map and a weekly summary table. Furthermore, users can connect with other users by partnering with them, which allows users to view and interact with another user's profile. The Feed and Explore tabs allows users to view recent activity from other users and show their support.
+
+
 Access the web application via: https://happits.netlify.app/
 ### Features
 **Login/Signup**:
